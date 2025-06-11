@@ -31,7 +31,7 @@
    </a>
 </p>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrtech0135/NEXUSXMD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-XMD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
@@ -64,7 +64,7 @@
 ### 📦 Download the Bot File
 
 <p align="center">
-  <a href="https://github.com/mrtech0135/NEXUSXMD/archive/refs/heads/main.zip">
+  <a href="https://github.com/Pkdriller/NEXUS-XMD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
   </a>
 </p>
