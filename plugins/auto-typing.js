@@ -1,1 +1,0 @@
-constfs=require('fs');constpath=require('path');constconfig=require('../config')const{cmd,commands}=require('../command')//Composing(AutoTyping)cmd({on:"body"},async(conn,mek,m,{from,body,isOwner})=>{if(config.AUTO_TYPING==='true'){awaitconn.sendPresenceUpdate('composing',from);//sendtyping}});
