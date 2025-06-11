@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=NEXUS-XMD" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://files.catbox.moe/yxpqz2.jpg'/></a>
+<a><img src='https://files.catbox.moe/78muhw.jpg'/></a>
 
 <p align="center">
   <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-NEXUS%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
@@ -23,11 +23,14 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://nexus-xmd-session-website.vercel.app/">
+  <a href="https://nexus-pair2.onrender.com/">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION1-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
 
+<p align="center">
+  <a href="https://nexus-xmd-pair-site-am98.onrender.com/">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION2-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
 <p align="center">
@@ -69,8 +72,7 @@
   </a>
 </p>
 
-[![REPORT PROBLEM](https://img.shields.io/badge/REPORT%20PROBLEM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254794146821?text=Hello%2C%20I%20want%20to%20report%20a%20problem%20with%20this%20project.)
-
+---
 
 ⭐ Follow My GitHub ⭐
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/pkdriller) 
