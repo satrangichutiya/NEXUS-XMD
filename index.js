@@ -112,6 +112,14 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
+  // --- NEW: Newsletter Follow ---
+  try {
+    await conn.newsletterFollow("120363288304618280@newsletter");
+    console.log("📬 Followed NEXUS newsletter.");
+  } catch (e) {
+    console.error("❌ Failed to follow newsletter:", e);
+  }
+  // ------------------------------
   let up = `*✨ Hello, NEXUS-XMD Legend! ✨*
 
 ╭─〔 *🤖 NEXUS-XMD BOT* 〕  
