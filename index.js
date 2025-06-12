@@ -112,14 +112,6 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  // --- NEW: Newsletter Follow ---
-  try {
-    await conn.newsletterFollow("120363288304618280@newsletter");
-    console.log("📬 Followed NEXUS newsletter.");
-  } catch (e) {
-    console.error("❌ Failed to follow newsletter:", e);
-  }
-  // ------------------------------
   let up = `*✨ Hello, NEXUS-XMD Legend! ✨*
 
 ╭─〔 *🤖 NEXUS-XMD BOT* 〕  
@@ -270,7 +262,7 @@ const port = process.env.PORT || 9090;
     
   if(senderNumber.includes("254794146821")){
   if(isReact) return
-  m.react("🤍")
+  m.react("💙")
    }
   //==========public react============//
   // Auto React 
